@@ -15,7 +15,7 @@ __Nachher__
 
 Beispiel mit Caption
 
-![gif from vid 2](https://nbtkmy.github.io/Gif_workshop/resource/gif/example_from_vid_2.gif)
+![gif from vid 2](./resource/gif/example_from_vid_2.gif)
 
 
 ## Werkzeuge
