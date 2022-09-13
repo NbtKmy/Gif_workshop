@@ -8,7 +8,7 @@ paginate: true
 # Workshop GIF-Animationen Erstellen
 
 ## Agenda
-- [GIF und GifItUp?](./intro.md) - ca. 10 min 
+- GIF und GifItUp? - ca. 10 min 
 - [Hands-on mit einem Video](./anleitung_vid.md) - ca. 10 min
 - [Hands-on mit einem Bild](./anleitung_img.md) - ca. 15 min
 - ... und selber Medien (Bilder oder Videos) suchen und eine GIF-Animation erstellen!
@@ -36,11 +36,18 @@ __Kurz & Einfach__
 
 ## GIF?
 
+- Abkürzung von Graphics Interchange Format
+- effiziente Kompression mit Lempel-Ziv-Welch-Algorithmus (LZW)
+- Zwei Versionen GIF87a/GIF89a (GIF89a ermöglicht Animation)
+
 ---
 
 ## GifItUp?
 
 ![icon gif-it-up](https://i0.wp.com/gifitup.net/wp-content/uploads/2018/09/cropped-gif-it-up-logo-square-1-6.png?w=120&ssl=1)
+- [GifItUp](https://gifitup.net/) ist ein von Europeana organisierter Wettbewerb
+- Er findet immer im Oktober statt - also bald!
+- [Beispiele](https://giphy.com/gifitup)
 
 
 ---
@@ -49,7 +56,7 @@ __Kurz & Einfach__
 
 __Vorher__
 
-Die Video-Sequenz von [diesem Video (zwischen ca. 57sek und 62sek)](https://www.europeana.eu/en/item/2051906/data_euscreenXL_https___www_openbeelden_nl_media_788653)
+[Die Video-Sequenz (zwischen ca. 57sek und 62sek)](https://nbtkmy.github.io/Gif_workshop/resource/video/example_vid.mp4)
 
 ---
 
@@ -148,6 +155,7 @@ _Jetzt erstellen wir eigene Animationen für GifItUp!_
 1. Bilder/Videos mit passenden Lizenzen aus den folgenden Datenbanken aussuchen
 
 --- 
+# DIY
 
 - [Europeana](https://www.europeana.eu/en)
 - [Trove](https://trove.nla.gov.au/)
@@ -156,6 +164,7 @@ _Jetzt erstellen wir eigene Animationen für GifItUp!_
 - [Japan Search](https://jpsearch.go.jp/)
 - [DAG Museums](https://dagworld.com/)
 - [Art Institute of Chicago](https://www.artic.edu/)
+
 ---
 
 # DIY

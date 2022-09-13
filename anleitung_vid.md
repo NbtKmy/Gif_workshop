@@ -1,9 +1,3 @@
----
-layout: page
-title: Anleitung (Video) 
-permalink: /anleitung_vid/
----
-
 # Anleitung zur Erstellung einer GIF-Animation von einem Video
 
 __Vorher__
