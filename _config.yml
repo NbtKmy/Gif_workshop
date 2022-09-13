@@ -19,16 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Workshop - GIF-Animationen Erstellen
-# email:
-description: "In diesem Workshop erstellen wir GIF-Animationen mit Hilfe von verschiedenen Webanwendungen!"
-baseurl: "/Gif_workshop" # the subpath of your site, e.g. /blog
-# url: "https://nbtkmy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
+description: In diesem Workshop erstellen wir GIF-Animationen mit Hilfe von verschiedenen Webanwendungen!
 github_username:  NbtKmy
 
 # Build settings
 remote_theme: pages-themes/midnight@v0.2.0
-# theme: midnight
 plugins:
   - jekyll-feed
   - jekyll-remote-theme 
