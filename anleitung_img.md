@@ -1,12 +1,18 @@
+---
+layout: page
+title: Anleitung (Image) 
+permalink: /anleitung_img/
+---
+
 # Anleitung zur Erstellung einer GIF-Animation von einem Bild
 
 __Vorher__
 
-![original image 1](./resource/image/example_img_original.jpg)
+![original image 1](https://nbtkmy.github.io/Gif_workshop/resource/image/example_img_original.jpg)
 
 __Nachher__
 
-![gif image 1](./resource/gif/example_from_image.gif)
+![gif image 1](https://nbtkmy.github.io/Gif_workshop/resource/gif/example_from_image.gif)
 
 ## Werkzeuge
 
@@ -23,11 +29,11 @@ In diesem Workshop verwenden wir ausschliesslich Webanwendungen, so dass wir nur
 
 __Beispiel Hintergrundbild__
 
-![Hintergrund](./resource/image/example_img_hintergrund.jpg)
+![Hintergrund](https://nbtkmy.github.io/Gif_workshop/resource/image/example_img_hintergrund.jpg)
 
 __Beispielbild für Bewegungen__
 
-![move img](./resource/image/example_img_move_char.jpg)
+![move img](https://nbtkmy.github.io/Gif_workshop/resource/image/example_img_move_char.jpg)
 
 1. In Pixlr X diese beiden Bilder in 2 unterschiedlichen Layers(Ebenen) öffnen
 1. Das Bild mit Charakter bewegen (verschieben/drehen usw.) und mit der Hintergrundbild kombinieren
