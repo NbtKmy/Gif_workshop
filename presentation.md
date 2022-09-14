@@ -39,12 +39,13 @@ __Kurz & Einfach__
 - Abkürzung von Graphics Interchange Format
 - effiziente Kompression mit Lempel-Ziv-Welch-Algorithmus (LZW)
 - Zwei Versionen GIF87a/GIF89a (GIF89a ermöglicht Animation)
+- Heute ist das Format bekannt für kurze Animationen
 
 ---
 
 ## GifItUp?
 
-![icon gif-it-up](https://i0.wp.com/gifitup.net/wp-content/uploads/2018/09/cropped-gif-it-up-logo-square-1-6.png?w=120&ssl=1)
+![bg right:50%](https://i0.wp.com/gifitup.net/wp-content/uploads/2018/09/cropped-gif-it-up-logo-square-1-6.png?w=120&ssl=1)
 - [GifItUp](https://gifitup.net/) ist ein von Europeana organisierter Wettbewerb
 - Er findet immer im Oktober statt - also bald!
 - [Beispiele](https://giphy.com/gifitup)
@@ -175,8 +176,17 @@ _Jetzt erstellen wir eigene Animationen für GifItUp!_
 
 ---
 
-## Weiteres
+# Weiteres
 
 - [Beispielmaterialien](https://github.com/NbtKmy/Gif_workshop/tree/main/resource)
+- [Weitere Anleitungen (Link zur GifItUp-Seite)](https://gifitup.net/how-to-make-a-gif/)
 
-- [Weitere Anleitungen (Link zu GifItUp-Seite)](https://gifitup.net/how-to-make-a-gif/)
+---
+# Weiteres (Destopapplikationen Auswahl)
+
+- [GIMP](https://www.gimp.org/) - Bildbearbeitungssoftware mit GUI
+- [ffmpeg](https://ffmpeg.org/) - Bearbeitung der audio-video-Medien ohne GUI / GIF-Datei erstellen aus Video
+- [imagemagick](https://imagemagick.org/index.php) - Bildbearbeitungssoftware ohne GUI
+- [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Videobearbeitungssoftware mit GUI
+
+
