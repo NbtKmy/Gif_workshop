@@ -190,3 +190,27 @@ _Jetzt erstellen wir eigene Animationen für GifItUp!_
 - [Davinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Videobearbeitungssoftware mit GUI
 
 
+---
+
+# Bonustrack - Bild animieren mit KI
+
+__Originalbild__
+![bg left:20%](./resource/image/retrato.jpg)
+Retrato de Rafael Clavijo Fernández de Socas, jefe de escuadra de la Real Armada. Retrato masculino von Anonymous - Virtual Library of the Ministry of Defense, Spain - CC0.
+https://www.europeana.eu/item/418/BVMDefensa_bib_BMDB20160099577
+
+
+---
+
+# Bonustrack - Bild animieren mit KI
+
+__Nachher__
+![height:400](./resource/gif/retrato.gif)
+
+---
+
+# Bonustrack - Bild animieren mit KI
+__Howto__
+1. [Diesen Code](./code/TanzBar_forGithub.ipynb) in Google Colab öffnen
+1. Nach der Anleitung den Code laufen lassen, ein Bild hochladen und den Code weiter laufen lassen
+1. Fertig!
