@@ -182,7 +182,7 @@ _Jetzt erstellen wir eigene Animationen für GifItUp!_
 - [Weitere Anleitungen (Link zur GifItUp-Seite)](https://gifitup.net/how-to-make-a-gif/)
 
 ---
-# Weiteres (Destopapplikationen Auswahl)
+# Weiteres (Desktop-Applikationen Auswahl)
 
 - [GIMP](https://www.gimp.org/) - Bildbearbeitungssoftware mit GUI
 - [ffmpeg](https://ffmpeg.org/) - Bearbeitung der audio-video-Medien ohne GUI / GIF-Datei erstellen aus Video
